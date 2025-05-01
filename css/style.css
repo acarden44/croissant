@@ -1,0 +1,13 @@
+body {
+  background-color: #fff3e0;
+  font-family: sans-serif;
+  color: #333;
+  text-align: center;
+  padding: 40px;
+}
+
+a {
+  color: #8b4513;
+  font-weight: bold;
+  margin: 0 10px;
+}
